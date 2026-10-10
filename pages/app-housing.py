@@ -7,7 +7,7 @@ from matplotlib.figure import Figure
 
 style.use("seaborn-v0_8")
 
-st.title("California Housing Data (1990) by Borui Su")
+st.title("California Housing Data (1990) by Hongyi Qian")
 
 # The CSV stays in the repository root, including when this page is in pages/.
 app_folder = Path(__file__).resolve().parent
